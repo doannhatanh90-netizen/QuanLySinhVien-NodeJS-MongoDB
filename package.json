@@ -1,0 +1,9 @@
+{
+  "name": "quan-ly-sinh-vien-bai03",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bai tap Node.js MongoDB - Doan Mai Nhat Anh",
+  "main": "app.js",
+  "scripts": {"start": "node app.js"},
+  "dependencies": {"mongodb": "^6.0.0"}
+}
